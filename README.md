@@ -1,4 +1,6 @@
 # Professional-Port
+##
+This portfolio is just your basic professional portfolio. And here is what it looks like
 ## 📷 Screenshots
 ![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/prof1.png)
 ![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/prof2.png)
