@@ -15,6 +15,6 @@
 ![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/prof13.png)
 ![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/prof14.png)
 ![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/prof15.png)
-![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/pro16.png)
+![image alt](https://github.com/Sphumelele420/Professional-Port/blob/cc6b7cafa8e101a03d3f805e3f790e901510bfa8/prof16.png)
 
 
